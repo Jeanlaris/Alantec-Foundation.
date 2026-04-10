@@ -1,1 +1,0 @@
-# Alantec-Foundation.
