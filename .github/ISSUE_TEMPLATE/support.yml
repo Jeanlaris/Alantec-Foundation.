@@ -3,7 +3,7 @@ description: Request technical assistance or architectural guidance.
 title: "[Support]: "
 labels: ["support"]
 body:
-  - type: textarea.
+  - type: textarea
     attributes:
       label: Support Details
       description: Describe your technical issue or question.
